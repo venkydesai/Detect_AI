@@ -11,5 +11,5 @@ At the forefront of academic concerns about LLMs is their potential to enable pl
 ## Application
 The application is live! You can go directly to [https://detectllm.streamlit.app/](https://detectllm.streamlit.app/) to play with the project! All you need to do is paste your essay into the text box and in a couple minutes, you will see a prediction! Here is an example on how to use the app:
 
-![alt-text-1](/Users/venkateshdesai/NEU/NLP/Project/Sub/Detect_AI/Images/detectllm.png "llm_detect") 
+![alt-text-1](https://github.com/venkydesai/Detect_AI/tree/main/Images "llm_detect") 
 <!-- ![alt-text-2](images/prediction.png "title-2") -->
