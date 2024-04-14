@@ -1,6 +1,6 @@
 # Decoding the Digital Pen: Detecting AI-Authored Text with LLM
 
-## Prject Description
+## Project Description
 
 Build a model to identify which essay was written by middle and high school students, and which was written using a large language model? With the spread of LLMs, many people fear they will replace or alter work that would usually be done by humans. Educators are especially concerned about their impact on students’ skill development, though many remain optimistic that LLMs will ultimately be a useful tool to help students improve their writing skills.
 
